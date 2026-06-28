@@ -39,4 +39,4 @@ Use the **Superstore** dataset (`sales_data.csv`).
 3. Review results.
 
 ## Author
-Prakhar Agarwal
+Nishita Raj
